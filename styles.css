@@ -93,6 +93,7 @@ nav a:hover {
 .sec2-1-cont, .sec2-2-cont {
     display: flex;
     flex-direction: column;
+    min_width: 400px;
 }
 
 .sec2-1-cont {
